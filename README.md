@@ -1,5 +1,22 @@
-# photo-filter project
+# Native photo filter
 
 ![Screenshot (98)](https://user-images.githubusercontent.com/50579392/116035659-2f57a180-a687-11eb-9479-036a52ecd7aa.png)
 
-### My photo editor provide all features you want to edit pictures. This photo editor as one of the best pic editing web app
+Demo: https://malikimansaparov.github.io/photo-filter/
+ 
+ ### Features
+* Filter effects
+* Load picture
+* Save picture
+* Reset effects
+* Switch picture
+* Switch fullscreen
+* Download picture
+* Auto switching day and night pictures
+
+### Technologies used:
+* HTML5
+* CSS3
+* JavaScript
+* Fullscreen API
+* File API
